@@ -1,2 +1,5 @@
 # shards-template
-The template repo for shards repo
+
+The template repo for shards components
+
+
